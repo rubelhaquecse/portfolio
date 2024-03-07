@@ -9,14 +9,20 @@ h1,h2,h3,h4,h5,h6{
       font-family: "Roboto", sans-serif;
      
 }
-header{
+
+/* header{
    background-image: url(../img/webimg.webp);
    background-position: center;
    background-attachment: fixed;
    background-repeat: no-repeat;
    background-size: cover;
 
+} */
+.rubel-slider img{
+   height: 650px;
 }
+
+
 header .logo{
    font-size: 30px;
 }
